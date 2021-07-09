@@ -1,0 +1,38 @@
+{
+  "users": {
+    "avartarImg": "Url",
+    "nickname": "NickName" ,
+    "email": "Email",
+    "tel": "Tel",
+    "position": "Position",
+    "positionLevel": "positionLevel",
+    "availableLocation": "availableLocation",
+    "availableWeek": "availableWeek",
+    "availableTime": "availableTime",
+    "interestSkills": ["Skill1","Skill2"],
+    "intro": "Intro",
+    "portfolio": ["Url1", "Url2"],
+    "role": ["key1", "key2"],
+    "join": ["projectID"],
+    "receivedLike": 9,
+    "token": "Token",
+    "createdAt": "createdAt",
+    "updatedAt": "updatedAt"
+  },
+  "login": {
+    "success": true,
+    "error": "error msg"
+  },
+  "logout": {
+    "success": true,
+    "error": "error msg"
+  },
+  "signup": {
+    "success": true,
+    "error": "error msg"
+  },
+  "auth": {
+    "success": true,
+    "error": "error msg"
+  }
+}
